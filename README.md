@@ -1,2 +1,3 @@
 # pebble-pedometer
-A pedometer for Pebble watch faces
+A pedometer for use with Pebble watch faces.
+Released under Mozilla Public License v2.0.
